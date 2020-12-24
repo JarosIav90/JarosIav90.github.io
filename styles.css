@@ -1,0 +1,22 @@
+#b1{background: rgb(255,195,195); font-size: 1em; font-family: 'Exo 2', sans-serif;}
+#b2{background: rgb(195,255,195); font-size: 1em;}
+#b3{background: rgb(195,195,295); font-size: 1em;}
+#b4{background: rgb(125,125,125); font-size: 1em;}
+
+#OO1{width: 250px; background: teal }
+#h1{color: white; font-size: 1.2em;}
+
+#h2{font-size: 1.2em;}
+#OO2{width:250px; background: magenta;}
+
+#h3{color: black; font-size: 1.2em;}
+#OO3{background: gold; width: 250px}
+
+#h4{color: white font-size: 1.2em;}
+#OO4{background: crimson; width: 250px}
+
+
+.name{font-family: 'Comfortaa', cursive;}
+#h1,#h2,#h3,#h4{font-family: 'Caveat', cursive;}
+#stuff{font-family: 'Cuprum', sans-serif;}
+#cities{font-family: 'Podkova', serif;}
